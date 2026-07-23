@@ -1,8 +1,25 @@
 aid: 10x-genomics
 name: 10x Genomics
-description: '10x Genomics is a company surfaced as a portfolio company of softbank-vision-fund and added
-  to the API Evangelist network as a stub for enrichment. Sector: health-tech. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: '10x Genomics is a life sciences technology company building instruments, reagents, and
+  software that resolve biology at single-cell and spatial resolution. Its Chromium platform delivers
+  single-cell gene expression, immune profiling, and multiomic analysis; its Visium and Xenium platforms
+  deliver spatial transcriptomics and in situ single-cell spatial biology. The company supports researchers
+  with analysis software (Cell Ranger, Space Ranger, Xenium Onboard Analysis, Loupe Browser), a cloud
+  analysis platform, and open datasets. 10x Genomics does not publish a general-purpose public REST
+  developer API; its developer surface is command-line analysis pipelines, file-format tooling, and
+  open-source repositories on GitHub.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.10xgenomics.com/image/upload/f_auto,q_auto/v1588029524/social-share-images/social-default.png
 url: https://raw.githubusercontent.com/api-evangelist/10x-genomics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -16,9 +33,47 @@ modified: '2026-07-17'
 tags:
 - Company
 - Health Tech
+- Genomics
+- Single Cell
+- Spatial Biology
+- Bioinformatics
+- Life Sciences
+- Sequencing
 apis: []
+common:
+- type: Website
+  url: https://www.10xgenomics.com/
+- type: Documentation
+  url: https://www.10xgenomics.com/support/software/cell-ranger/latest
+- type: Support
+  url: https://www.10xgenomics.com/support
+- type: Blog
+  url: https://www.10xgenomics.com/blog
+- type: GitHubOrganization
+  url: https://github.com/10XGenomics
+- type: TermsOfService
+  url: https://www.10xgenomics.com/legal/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.10xgenomics.com/legal/privacy-policy
+- type: SecurityTxt
+  url: well-known/10x-genomics-security.txt
+- type: WellKnown
+  url: well-known/10x-genomics-well-known.yml
+- type: VulnerabilityDisclosure
+  url: security/10x-genomics-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.10xgenomics.com/.well-known/security.txt
+- type: DomainSecurity
+  url: security/10x-genomics-domain-security.yml
+- type: LLMsTxt
+  url: llms/10x-genomics-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

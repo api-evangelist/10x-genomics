@@ -1,0 +1,27 @@
+# 10x Genomics
+
+> 10x Genomics is a life sciences technology company building instruments, reagents, and software that resolve biology at single-cell and spatial resolution (Chromium single-cell, Visium spatial transcriptomics, Xenium in situ). It ships command-line analysis pipelines and open-source tooling rather than a public REST developer API.
+
+## Products & Platforms
+- [Chromium Single Cell Platform](https://www.10xgenomics.com/platforms/chromium): Single-cell gene expression, immune profiling, and multiomics.
+- [Visium Spatial Platform](https://www.10xgenomics.com/platforms/visium): Whole-transcriptome spatial gene expression.
+- [Xenium In Situ Platform](https://www.10xgenomics.com/platforms/xenium): High-plex single-cell resolution in situ spatial biology.
+
+## Developer & Software Surface
+- [Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest): Analysis pipelines for Chromium single-cell data.
+- [Software Support & Documentation](https://www.10xgenomics.com/support): Downloads, docs, and analysis guides for all software.
+- [GitHub Organization](https://github.com/10XGenomics): 76+ open-source repositories (cellranger, spaceranger, loupeR, scan-rs) — informational source, not officially supported clients.
+- [Datasets](https://www.10xgenomics.com/datasets): Public single-cell and spatial datasets.
+
+## Company
+- [Website](https://www.10xgenomics.com/)
+- [Blog](https://www.10xgenomics.com/blog)
+- [Careers](https://careers.10xgenomics.com/careers)
+
+## Security & Legal
+- [security.txt](https://www.10xgenomics.com/.well-known/security.txt): security-reports@10xgenomics.com
+- [Terms of Use](https://www.10xgenomics.com/legal/terms-of-use)
+- [Privacy Policy](https://www.10xgenomics.com/legal/privacy-policy)
+
+## Notes
+- No general-purpose public REST/OpenAPI developer API is published as of 2026-07-17.

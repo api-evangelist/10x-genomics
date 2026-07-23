@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security-reports@10xgenomics.com
+Expires: 2027-02-01T20:00:00.000Z
+Encryption: https://www.10xgenomics.com/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://www.10xgenomics.com/.well-known/security.txt
+Hiring: https://careers.10xgenomics.com/careers
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE+lZtPq5G88LNiqJI94dfDeAaMDAFAme1AAkACgkQ94dfDeAa
+MDDFghAAmiAuiEz+vH6zI0S7zvSP1ZvNeUXLrPXdKssgmhMFLykx7FcRy7+VhV+9
+IeMLV10xoBX67DmGN8yjE+DoxBKO/VDZJm2qWN1FiAO86ZEWP3adC5doZTzH+aqO
+izsSoOc848qRBicQ822WoMxAECxQXKJmcRf7rWLImj3tWmIHCXrgGo894x4/ITxF
+UxA7+EIM59iI3LqCB2Q4ACBNO1Gj2/g6cn5QZXN6cDo3XqYzwyahapMMpt8S5h3d
+qu0MQLOuxINYHHopemoYM6SYThILhvlsbUUmZe1AqFGqn4gsC0eCKIY3zJ9mVHdV
+mdNLVmJZ4MdWVye/MOUwO2kZdV23+TBKfvsJV9x4+mrYyYKPkYZQb6lYx7iYmZZV
+u9ZmtQXqkJlc9OiS16g+yuJmJTlBG/XsNb4g3zgknjORC2/x5sJuc74lXfE2/hTF
+aZ4rzdQcuxEsIEE9fILg76VpFobt0Ncrnt91bhoO2Erjb1SCvCnf6AvXLRleu+Za
+OpQAxeAdp5THY2Cwt7cN9MGKU88Zc0HFscSWhqWeTWLIzLjISWcGOAt16O9QRG5D
+U58ufKkU1yEcVqlzBE33IRTmkTXdgF+0EMtHGqC5WugU5rBrNf+Vz1pC5RP9MpZ5
+opjteEN/B434EDr9m/Mraz5fenZcOuZ3skteVusbsvUK+1mUJxs=
+=ZYWo
+-----END PGP SIGNATURE-----
