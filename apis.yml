@@ -8,6 +8,17 @@ description: '10x Genomics is a life sciences technology company building instru
   analysis platform, and open datasets. 10x Genomics does not publish a general-purpose public REST
   developer API; its developer surface is command-line analysis pipelines, file-format tooling, and
   open-source repositories on GitHub.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
